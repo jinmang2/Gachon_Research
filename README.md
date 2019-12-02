@@ -3,7 +3,8 @@ This repo describes a python implementation of three methodologies:
   - Sigma & Gamma Convergence
   - Experience Curve
   - Scaling
----
+
+# About Methodology
 ## Sigma & Gamma Convergence
 &nbsp;&nbsp;&nbsp;&nbsp;The convergence analysis attempts to examine two basis questions. First, do countries
 initially lagging in such performance measures as globalization index tend to improve faster so
@@ -73,5 +74,9 @@ considerably, which indicates conditional β convergence. Put it another way, ca
 be taking place within subgroups of countries. 
 
 ## Experience Curve
+- reference: Kinked Experience Curve, YuSang Chang
+![title](https://github.com/jinmang2/Gachon_Research/blob/master/img/Figure%208.%20Kinked%20Experience%20Curves%20for%20Energy%20Intensity%20of%20US%20and%20Japan.PNG?raw=true)
+
 
 ## Scaling Methodology
+- Panel Regression, Region Analysis, PCSE, GLS, random/fixed effect
