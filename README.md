@@ -3,6 +3,16 @@ This repo describes a python implementation of three methodologies:
   - Sigma & Gamma Convergence
   - Experience Curve
   - Scaling
+# Do Projects
+- Globalization
+- Particulate Matter 2.5
+- Sanitation
+- Marine Protected Area
+- Suicide
+- Panel Regression on PM2.5
+- PACOV
+- Metropolitan PM2.5
+- Corruption
 
 # About Methodology
 ## Sigma & Gamma Convergence
