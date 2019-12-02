@@ -3,6 +3,9 @@ This repo describes a python implementation of three methodologies:
   - Sigma & Gamma Convergence
   - Experience Curve
   - Scaling
+
+This repo records the work done by Dr. YuSang Chang of the College of Business, Convergence Research Institute.
+
 # Do Projects
 - Globalization
 - Particulate Matter 2.5
@@ -15,7 +18,7 @@ This repo describes a python implementation of three methodologies:
 - Corruption
 
 # About Methodology
-## Sigma & Gamma Convergence
+### Sigma & Gamma Convergence
 &nbsp;&nbsp;&nbsp;&nbsp;The convergence analysis attempts to examine two basis questions. First, do countries
 initially lagging in such performance measures as globalization index tend to improve faster so
 that they catch up to the performance of leading countries over time? Second, does dispersion of
@@ -83,10 +86,10 @@ countries takes place. However, performance differences among countries have red
 considerably, which indicates conditional β convergence. Put it another way, catch-up process may
 be taking place within subgroups of countries. 
 
-## Experience Curve
+### Experience Curve
 - reference: Kinked Experience Curve, YuSang Chang
 ![title](https://github.com/jinmang2/Gachon_Research/blob/master/img/Figure%208.%20Kinked%20Experience%20Curves%20for%20Energy%20Intensity%20of%20US%20and%20Japan.PNG?raw=true)
 
 
-## Scaling Methodology
+### Scaling Methodology
 - Panel Regression, Region Analysis, PCSE, GLS, random/fixed effect
