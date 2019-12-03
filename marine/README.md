@@ -1,4 +1,4 @@
-# Marine Protected Area exclusive economic zone(MPAEEZ)
+# Marine Protected Area Exclusive Economic Zone (MPAEEZ)
 
 ### Data come From
 - [EPI 2016](https://sedac.ciesin.columbia.edu/data/collection/epi/sets/browse)
